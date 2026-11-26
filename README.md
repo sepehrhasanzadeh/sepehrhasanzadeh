@@ -66,8 +66,8 @@ Technologies I've worked with across professional work, personal projects, and l
 | **Languages & web foundations** | JavaScript, TypeScript, HTML5, CSS3 |
 | **Application frameworks** | React, Next.js, Node.js, Express.js, NestJS |
 | **State & data fetching** | Redux Toolkit, RTK Query, React Context |
-| **UI & interaction** | Tailwind CSS, Material UI (MUI), React Bootstrap, Framer Motion, Swiper |
-| **Data & APIs** | PostgreSQL, MongoDB, TypeORM, Redis, REST APIs, JWT authentication, cookie-based authentication |
+| **UI & interaction** | Tailwind CSS, shadcn/ui, Material UI (MUI), React Bootstrap, Framer Motion, Swiper |
+| **Data & APIs** | PostgreSQL, MongoDB, SQLite, TypeORM, Redis, REST APIs, JWT authentication, cookie-based authentication |
 | **Infrastructure & delivery** | Docker, Docker Compose, Nginx, MinIO, Bull Queue, Git, GitHub, GitLab, CI/CD |
 | **AI development tools** | OpenAI Codex, Claude Code, Cursor, OpenCode, OpenRouter, LiteLLM, n8n, Google AI |
 

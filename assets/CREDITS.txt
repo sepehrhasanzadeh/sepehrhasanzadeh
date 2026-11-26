@@ -1,7 +1,10 @@
 Brand icons: Simple Icons — https://simpleicons.org/
 Source: https://github.com/simple-icons/simple-icons
 License: CC0 1.0 Universal — https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
+Codex icon: Lobe Icons — https://github.com/lobehub/lobe-icons
+Copyright (c) 2023 LobeHub. MIT License: see LICENSE-lobe-icons.txt.
+LiteLLM icon: https://docs.litellm.ai/img/brand/litellm-favicon.svg
 Ahan Online brand icon: https://ahanonline.com/logo/apple-icon-180x180.png
 Doctop brand icon: https://doctop.com/icon.png
-Company icons are original site assets; brand rights remain with their respective owners.
-Outline illustrations, gradients, and layouts are custom work for this profile.
+Brand rights remain with their respective owners.
+Semantic icons for APIs, authentication, queues, and delivery, plus outline illustrations, gradients, and layouts are custom work for this profile.

@@ -16,7 +16,7 @@ I'm **Sepehr Hasanzadeh**, a **Software Engineer** and Computer Engineering stud
 
 My focus is on understanding how a product works as a whole: its user experience, application logic, data, and delivery. I use AI-driven development to explore architecture, implement features, debug issues, and solve engineering problems, with attention to clear design and maintainable code.
 
-<h2><img src="assets/icon-experience.svg" width="24" height="24" alt=""> Current Experience</h2>
+<h2><img src="assets/ahanonline-icon.png" width="24" height="24" alt=""> Current Experience</h2>
 
 <a href="https://ahanonline.com/">
   <picture>
@@ -67,45 +67,6 @@ AI-assisted engineering is part of how I build: from exploring system design to 
 
 **Coding agents & editors** · OpenAI Codex, Claude Code, Cursor, OpenCode<br>
 **Model integration & automation** · OpenRouter, LiteLLM, n8n, Google AI
-
-<h2><img src="assets/icon-projects.svg" width="24" height="24" alt=""> Selected Projects</h2>
-
-<a href="https://github.com/sepehrhasanzadeh/ai-web-builder">
-  <picture>
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/sepehrhasanzadeh/sepehrhasanzadeh/main/assets/project-ai-web-builder-mobile.svg">
-    <img src="assets/project-ai-web-builder.svg" width="100%" alt="AI Web Builder — View repository">
-  </picture>
-</a>
-
-An AI-assisted website builder with prompt-based page generation and section-level editing. The implementation connects an OpenAI integration to project, section, and conversation management.
-
-<sub>TypeScript · Next.js · NestJS · TypeORM · PostgreSQL · OpenAI</sub>
-
-<br><br>
-
-<a href="https://github.com/sepehrhasanzadeh/DigiMax">
-  <picture>
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/sepehrhasanzadeh/sepehrhasanzadeh/main/assets/project-digimax-mobile.svg">
-    <img src="assets/project-digimax.svg" width="100%" alt="DigiMax — View repository">
-  </picture>
-</a>
-
-A digital-products store with authentication, product filtering, a persistent shopping cart, order placement, and customer account pages. State and API interactions use Redux Toolkit and RTK Query.
-
-<sub>React · Redux Toolkit · RTK Query · Node.js · Express.js · MongoDB</sub>
-
-<br><br>
-
-<a href="https://github.com/sepehrhasanzadeh/GameSpot">
-  <picture>
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/sepehrhasanzadeh/sepehrhasanzadeh/main/assets/project-gamespot-mobile.svg">
-    <img src="assets/project-gamespot.svg" width="100%" alt="GameSpot — View repository">
-  </picture>
-</a>
-
-A gaming-products store with customer and admin panels, inventory management, order handling, and confirmation emails. Built with a React interface and an Express API backed by MongoDB.
-
-<sub>React · Redux · Node.js · Express.js · MongoDB</sub>
 
 <h2><img src="assets/icon-contact.svg" width="24" height="24" alt=""> Contact & Professional Links</h2>
 

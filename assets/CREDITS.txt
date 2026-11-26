@@ -1,4 +1,6 @@
 Brand icons: Simple Icons — https://simpleicons.org/
 Source: https://github.com/simple-icons/simple-icons
 License: CC0 1.0 Universal — https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-Outline illustrations, gradients, layouts, and remaining SVG assets are custom work for this profile.
+Ahan Online brand icon: https://ahanonline.com/logo/apple-icon-180x180.png
+The Ahan Online icon is the original site asset; brand rights remain with its owner.
+Outline illustrations, gradients, and layouts are custom work for this profile.

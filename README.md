@@ -43,9 +43,11 @@ Working and learning on real-world software products, with experience spanning a
 
 **[Doctop](https://doctop.com/)** is a subscription-based website builder and site-management platform for physicians and medical practices. It brings dedicated doctor websites, appointment booking, online consultations, and patient–physician chat into one connected product.
 
-- **Websites & management** — tools for creating and managing a medical practice's online presence.
-- **Patient services** — online scheduling, consultations, and communication between doctors and patients.
-- **Web experience** — search-friendly medical websites with progressive web app (PWA) support.
+I joined Doctop after its initial development, working on the existing platform across:
+
+- **Redesign** — improving existing interfaces and user experience.
+- **Bug fixes** — investigating and resolving issues in existing functionality.
+- **Feature development** — building new features and extending existing capabilities.
 
 [Explore Doctop](https://doctop.com/) &nbsp; / &nbsp; [Medical website platform](https://sites.doctop.com/website)
 

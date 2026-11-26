@@ -1,0 +1,4 @@
+Brand icons: Simple Icons — https://simpleicons.org/
+Source: https://github.com/simple-icons/simple-icons
+License: CC0 1.0 Universal — https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
+Outline illustrations, gradients, layouts, and remaining SVG assets are custom work for this profile.

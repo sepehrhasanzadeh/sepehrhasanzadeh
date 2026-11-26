@@ -32,6 +32,23 @@ Working and learning on real-world software products, with experience spanning a
 - Using **Docker** and development infrastructure while building an understanding of production environments and software delivery.
 - Applying AI coding agents to implementation, debugging, and day-to-day engineering tasks.
 
+<br>
+
+<a href="https://doctop.com/">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/sepehrhasanzadeh/sepehrhasanzadeh/main/assets/doctop-mobile.svg">
+    <img src="assets/doctop.svg" width="100%" alt="Doctop — Physician websites and practice management platform">
+  </picture>
+</a>
+
+**[Doctop](https://doctop.com/)** is a subscription-based website builder and site-management platform for physicians and medical practices. It brings dedicated doctor websites, appointment booking, online consultations, and patient–physician chat into one connected product.
+
+- **Websites & management** — tools for creating and managing a medical practice's online presence.
+- **Patient services** — online scheduling, consultations, and communication between doctors and patients.
+- **Web experience** — search-friendly medical websites with progressive web app (PWA) support.
+
+[Explore Doctop](https://doctop.com/) &nbsp; / &nbsp; [Medical website platform](https://sites.doctop.com/website)
+
 <h2><img src="assets/icon-stack.svg" width="24" height="24" alt=""> Technical Stack</h2>
 
 Technologies I've worked with across professional work, personal projects, and learning.
